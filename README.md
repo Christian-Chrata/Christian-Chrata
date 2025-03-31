@@ -1,5 +1,5 @@
 <div align="left">
-# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">Hi there! I'm Christian  
+#<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">Hi there! I'm Christian  
 </div>
 
 <div align="left">

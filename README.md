@@ -1,6 +1,6 @@
 <div align="left">
   
-# Hi there! 👋 I'm Christian Chrata  
+# Hi there! 👋 I'm Christian  
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Aspiring+Data+Analyst;Passionate+Developer;Machine+Learning+Enthusiast)
 
 </div>
@@ -13,7 +13,7 @@
 - 🤝 Open to collaborating on **Open Source & Data Science projects**
 - 💬 Ask me about **Python, Data Science, and Web Development**
 - 📧 Reach me at **[chrata.main@gmail.com](mailto:chrata.main@gmail.com)**
-- ⚡ Fun fact: **I love coffee ☕ and coding 💻**
+- ⚡ Fun fact: **I love coffee ☕**
 
 ---
 
@@ -32,7 +32,7 @@
     <!-- Python -->
       <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></td>
       <td>
-        <a href="https://github.com/Christian-Chrata/SPOTIFAI">🔗 SPOTIFAI CRUD</a>
+        <a href="https://github.com/Christian-Chrata/SPOTIFAI">🔗 SPOTIFAI</a>
       </td>
     </tr>
     <!-- Swift -->
@@ -54,6 +54,13 @@
 <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Christian-Chrata&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Christian-Chrata&theme=radical"/>
+</div>
+
+---
+
+### 💻 My Latest Blog Posts:
+<div align="left">
+    <li><a href="https://medium.com/@chrata.main/menangani-error-di-python-dengan-try-except-7ee1ed4e142e">Menangani Error di Python dengan Try-Except</a></li>
 </div>
 
 ---

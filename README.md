@@ -1,17 +1,25 @@
 <div align="left">
   
-# Hi there! 👋 I'm Christian  
+# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">Hi there! I'm Christian  
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Aspiring+Data+Analyst;Passionate+Developer;Machine+Learning+Enthusiast)
 
 </div>
 
 ---
 
+### 🌐 Connect with Me:
+<div align="left">
+  <a href="https://github.com/Christian-Chrata"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://medium.com/@chrata.main"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="mailto:chrata.main@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
+
+---
+
 ### 🏆 About Me:
 - 🔭 Currently working on **Python projects**
-- 📖 Learning **Machine Learning** to become a **Data Analyst**
 - 🤝 Open to collaborating on **Open Source & Data Science projects**
-- 💬 Ask me about **Python, Data Science, and Web Development**
+- 💬 Ask me about **Python, Data Science, and Mobile Development**
 - 📧 Reach me at **[chrata.main@gmail.com](mailto:chrata.main@gmail.com)**
 - ⚡ Fun fact: **I love coffee ☕**
 
@@ -61,14 +69,6 @@
 ### 💻 My Latest Blog Posts:
 <div align="left">
     <li><a href="https://medium.com/@chrata.main/menangani-error-di-python-dengan-try-except-7ee1ed4e142e">Menangani Error di Python dengan Try-Except</a></li>
-</div>
-
----
-
-### 🌐 Connect with Me:
-<div align="left">
-  <a href="https://github.com/Christian-Chrata"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:chrata.main@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 ---

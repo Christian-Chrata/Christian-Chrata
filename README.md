@@ -9,9 +9,6 @@
   <a href="https://medium.com/@chrata.main"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" /></a>
   <a href="mailto:chrata.main@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
----
-
-### 🌐 Connect with Me:
 
 ---
 

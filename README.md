@@ -57,7 +57,7 @@
 ### 🚀 GitHub Stats:
 <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Christian-Chrata&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Christian-Chrata&theme=radical"/>
+  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com/?user=Christian-Chrata&theme=radical"/>
 </div>
 
 ---

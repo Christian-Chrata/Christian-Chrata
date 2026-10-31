@@ -21,4 +21,5 @@ Looker Studio · Streamlit · Next.js · TypeScript · Swift
 ## Contact
 
 - Website: [chrata.cloud](https://chrata.cloud)
+- LinkedIn: [linkedin.com/in/chrata-christian](https://www.linkedin.com/in/chrata-christian/)
 - Email: chrata.main@gmail.com
